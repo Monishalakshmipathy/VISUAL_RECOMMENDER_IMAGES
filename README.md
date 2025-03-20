@@ -1,6 +1,6 @@
 # VISUAL_RECOMMENDER_IMAGES
 
-# Git Visual Recommender System: Fashion Image Recommendation Using Deep Learning
+# Visual Recommender System: Fashion Image Recommendation Using Deep Learning
 
 ## Overview
 
