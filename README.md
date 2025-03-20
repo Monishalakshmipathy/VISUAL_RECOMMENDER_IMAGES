@@ -47,7 +47,7 @@ To run the project locally, follow these steps:
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/fashion-recommender.git
+   git clone https://github.com/Monishalakshmipathy/VISUAL_RECOMMENDER_IMAGES.git
    ```
 
 2. Navigate to the project directory:
@@ -79,15 +79,3 @@ To run the project locally, follow these steps:
 
 The results of the project demonstrate the effectiveness of both CNN and RNN models in fashion image recommendation tasks. The accuracy of each model is compared, showcasing which approach performs better in this specific domain.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- The **Kaggle Fashion Dataset** is provided by Zalando Research and is used for educational and research purposes.
-- Thanks to the contributors and maintainers of the deep learning frameworks used in this project.
-
----
-
-You can modify and add any specific details based on your project structure and any additional features you may have implemented.
